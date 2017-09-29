@@ -1,0 +1,22 @@
+body{
+    background-color:#DDDDDD;
+    height: 100%;
+    width: 100%;
+}
+
+.flex{
+    display:flex;
+    justify-content:space-between;
+    flex-wrap:wrap;
+}
+
+.button{
+    padding: 4px;
+    border-radius: 2px;
+}
+
+.text-center{
+    width: 100%;
+    text-align:center;
+    margin-bottom: 30px;
+}
