@@ -1,0 +1,24 @@
+{
+  "name": "mandatory_node",
+  "version": "1.0.0",
+  "description": "\": \"\"",
+  "main": "y",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.15.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SletIkkeSoren/mandatoryNode.git"
+  },
+  "author": "Søren Tekelioglu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SletIkkeSoren/mandatoryNode/issues"
+  },
+  "homepage": "https://github.com/SletIkkeSoren/mandatoryNode#readme"
+}
